@@ -65,13 +65,6 @@ This project investigates:
    - Use SMOTE or other techniques to address class imbalance.
    - Retrain the SVMs with the pre-processed data and compare results.
 
-7. **Classifier Chain (Extra Practice)**:
-   - Research and apply the **Classifier Chain** method for multi-label classification.
-   - Compare its performance with Binary Relevance.
-
-8. **Additional Evaluation Metrics (Extra Practice)**:
-   - Research how metrics like Confusion Matrix, Precision, Recall, ROC, and AUC are defined for multi-label classification.
-   - Compute these metrics for the trained classifiers.
 
 ---
 
